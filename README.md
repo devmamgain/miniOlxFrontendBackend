@@ -81,10 +81,10 @@ http://localhost:5000/api
 
 ## 📦 Tech Stack
 
-- Frontend: React, Vite, TailwindCSS (optional)
+- Frontend: React, Vite, TailwindCSS 
 - Backend: Node.js, Express.js
 - Database: MongoDB
-- Authentication: JWT (if used)
+- Authentication: JWT 
 
 ---
 
