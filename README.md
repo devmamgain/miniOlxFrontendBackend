@@ -20,7 +20,7 @@ project-root/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/devmamgain/miniOlxFrontendBackend.git)
 cd miniOlxFrontendBackend
 ```
 
